@@ -2,7 +2,7 @@
 
 /**
  * main - a function that prints numbers
- * and replaces multiplies fo 3 and 5 with FizzBuzz
+ *
  * Return: 0
  */
 int main(void)
