@@ -3,7 +3,7 @@
 /**
  * main - a function that prints numbers
  *
- * Return: 0
+ * Return: 0 (Success)
  */
 int main(void)
 {
