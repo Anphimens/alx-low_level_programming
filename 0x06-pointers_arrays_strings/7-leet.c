@@ -2,7 +2,7 @@
 
 /**
  * leet - a function that encodes a string into 1337
- * @st-Wall -pedantic -Werror -Wextra -std=gnu89 7-main.c 7-leet.c -o 7-1337: parameter for argument
+ * @str: parameter for argument
  * Return: string
  */
 char *leet(char *str)
