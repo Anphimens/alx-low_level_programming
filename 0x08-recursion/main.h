@@ -12,4 +12,5 @@ int is_prime_finder(int n, int i);
 int is_palindrome(char *s);
 int find_my_palindrome(char *s, int firstIndex, int lastIndex);
 int wildcmp(char *s1, char *s2);
+int find_my_square(int n, int num);
 #endif
