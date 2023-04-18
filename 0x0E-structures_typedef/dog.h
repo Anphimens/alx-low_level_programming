@@ -15,4 +15,7 @@ struct dog
 	float age;
 	char *owner;
 };
+/* additiona; functions */
+void init_dog(struct dog *d, char *name, float age, char *owner);
+
 #endif
