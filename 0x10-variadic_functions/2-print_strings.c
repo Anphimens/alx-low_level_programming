@@ -19,7 +19,7 @@ void print_strings(const char *separator, const unsigned int n, ...)
 
 	for (i = 0; i < n; i++)
 	{
-		s = va_arg(str, char *);
+		s = va_arg(str, char *); /* retrieved string stored in s after iteration */
 
 		if (s == NULL)
 		{
