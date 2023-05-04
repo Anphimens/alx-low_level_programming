@@ -17,10 +17,11 @@ Bit manipulation is the process of applying logical operations on a sequence of 
  `main.h` contains all the prototypes of the functions used int the bit manipulation project. The header file is include guarded
 
 ## Tasks
+
  ```http
   Title: 0.0
  ```
-#### Write a function that converts a binary number to an `unsigned int.`
+#### - Write a function that converts a binary number to an `unsigned int.`
 
  ```http
  Title: 1.1
