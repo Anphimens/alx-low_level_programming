@@ -21,42 +21,42 @@ Bit manipulation is the process of applying logical operations on a sequence of 
  ```http
   Title: 0.0
  ```
-#### - Write a function that converts a binary number to an `unsigned int.`
+ - Write a function that converts a binary number to an `unsigned int.`
 
  ```http
  Title: 1.1
  ```
-#### Write a function that prints the binary representation of a number.
+ - Write a function that prints the binary representation of a number.
 
  ```http
  Title: 2. 10
  ```
-#### Write a function that returns the value of a bit at a given index.
+ - Write a function that returns the value of a bit at a given index.
 
  ```http
  Title: 3. 11
  ```
-#### Write a function that sets the value of a bit to 1 at a given index.
+ - Write a function that sets the value of a bit to 1 at a given index.
 
  ```http
  Title: 4. 100
  ```
-#### Write a function that sets the value of a bit to 0 at a given index.
+ - Write a function that sets the value of a bit to 0 at a given index.
 
  ```http
  Title: 5. 101
  ```
-#### Write a function that returns the number of bits you would need to flip to get from one number to another.
+ - Write a function that returns the number of bits you would need to flip to get from one number to another.
 
  ```http
  Title: Endianness
  ```
-#### Write a function that checks the endianness.
+ - Write a function that checks the endianness.
 
  ```http
  Title: Crackme3
  ```
-#### Find the password for `this program`.
+ - Find the password for `this program`.
 
 
 ### End of tasks
