@@ -56,7 +56,7 @@ Bit manipulation is the process of applying logical operations on a sequence of 
  ```http
  Title: Crackme3
  ```
- - Find the password for `this program`.
+ - Find the password for [this program](https://github.com/holbertonschool/0x13.c)
 
 
 ### End of tasks
