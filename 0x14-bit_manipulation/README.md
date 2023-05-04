@@ -18,7 +18,7 @@ Bit manipulation is the process of applying logical operations on a sequence of 
 
 ## Tasks
 
- ```http
+ ```
   Title: 0.0
  ```
  - Write a function that converts a binary number to an `unsigned int.`
