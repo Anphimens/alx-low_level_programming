@@ -1,4 +1,4 @@
-# low level programming language
+# Low level programming language
 
 ## Acknowledgements
 This curriculum is designed by [Julien](https://github.com/jbarbier) of [Holberton School](https://github.com/holbertonschool) and `alx_africa`. A software engineering program that trains young talent for the tech world.
@@ -35,8 +35,9 @@ The directories in this repository are:
  - 0x14-bit_manipulation
 ```
 
-Each directory contains `README.md` file that explains the content in the directory.
-Some directories may contain `main.h` or files known as *header files*. This header files contain the prototype of the functions in the `.c` files.
+### Features
+ - Each directory contains `README.md` file that explains the content in the directory.
+ - Some directories may contain `main.h` or files known as *header files*. This header files contain the prototype of the functions in the `.c` files.
 
 
 ## Appendix
