@@ -51,5 +51,5 @@ Write a program that displays the information contained in the `ELF` header at t
 
 
 ## Reference
- - [Wikipedia]{https://en.wikipedia.org/wiki/File_descriptor#Operations_that_modify_process_state}
- - [C-File I/O]{https://www.tutorialspoint.com/cprogramming/c_file_io.htm}
+ - [Wikipedia](https://en.wikipedia.org/wiki/File_descriptor#Operations_that_modify_process_state)
+ - [C-File I/O](https://www.tutorialspoint.com/cprogramming/c_file_io.htm)
