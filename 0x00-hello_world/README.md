@@ -103,6 +103,7 @@ Task 7 - Intel
 Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
 
 Task 8 - UNIX is basically a simple operating sytem, but you have to be genius to understand the simplicity.
+Write a C program that prints exactly `and that piece of art is useful" - Dora Korpar, 2015-10-19`, followed by a new line, to the standard error.
 
 ```
 
