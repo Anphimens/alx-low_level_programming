@@ -15,19 +15,19 @@ hash_table_t *hash_table_create(unsigned long int size)
 	hashTable = malloc(sizeof(hash_table_t));
 	if (hashTable == NULL)
 	{
-	return (NULL);
+		return (NULL);
 	}
 	/*Allocate memory for the array of hash nodes */
 	hashTable->array = malloc(sizeof(hash_node_t) * size);
 	if (hashTable->array == NULL)
 	{
-	free(hashTable);
-	return (NULL);
+		free(hashTable);
+		return (NULL);
 	}
 	/*Initialize each array element to NULL */
 	for (i = 0; i < size; i++)
 	{
-	hashTable->array[i] = NULL;
+		hashTable->array[i] = NULL;
 	}
 	hashTable->size = size;
 	return (hashTable);
